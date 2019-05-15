@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT qara_3420.wsgi:application
